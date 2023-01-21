@@ -1,0 +1,10 @@
+/* li { display: inline-block; } */
+.header{
+    text-align: center;
+}
+
+.spacing{
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+column-gap: 12px;
+}

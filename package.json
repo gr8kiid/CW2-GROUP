@@ -1,0 +1,14 @@
+{
+  "name": "cw2-group",
+  "version": "1.0.0",
+  "description": "CW2 GROUP TASK",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WAMBE OLU SIEWE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
